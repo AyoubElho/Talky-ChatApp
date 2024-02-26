@@ -9,7 +9,6 @@ Java & Firebase & xml
   <li>Firebase</li>
   <li>Authentification</li>
   <li>RecylerView with Firebase</li>
-  <li></li>
 </ul>
 
 ![Design sans titre (2)](https://github.com/AyoubElho/Talky-ChatApp/assets/161326721/6ecf1df9-27f2-492a-b392-cfcd3c4dfd06)
