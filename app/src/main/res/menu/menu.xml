@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/account_circle"
+        android:iconTint="@color/white"
+        android:title="Logout"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/lougout"
+        android:icon="@drawable/logout_fill0_wght400_grad0_opsz24"
+        android:iconTint="@color/white"
+        android:title="Logout"
+        app:showAsAction="always" />
+
+</menu>
