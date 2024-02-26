@@ -3,6 +3,15 @@
 <h1>Tech Stack</h1>
 Java & Firebase & xml 
 
+<h1>In this project I learned how to use:</h1>
+<ul>
+  <li>Fragments</li>
+  <li>Firebase</li>
+  <li>Authentification</li>
+  <li>RecylerView with Firebase</li>
+  <li></li>
+</ul>
+
 ![Design sans titre (2)](https://github.com/AyoubElho/Talky-ChatApp/assets/161326721/6ecf1df9-27f2-492a-b392-cfcd3c4dfd06)
 
 ![Design sans titre (3)](https://github.com/AyoubElho/Talky-ChatApp/assets/161326721/a35f29c3-e332-4a9c-92ca-e5d989e0811e)
