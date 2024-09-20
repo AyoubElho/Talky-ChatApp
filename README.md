@@ -1,5 +1,6 @@
-<h1>Application de messagerie </h1>
-<p>This is a chat App call talky written in Java and xml</p>
+<h1>The news app for the province of Sidi Kacem.
+</h1>
+<p>This is a news app call SkPNews written in Java and xml</p>
 <h1>Tech Stack</h1>
 Java & Firebase & xml 
 
